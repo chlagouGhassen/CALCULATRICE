@@ -1,0 +1,12 @@
+C:\Users\ghassen\Desktop\calculatrice\calculatrice\bin\Debug\calculatrice.exe.config
+C:\Users\ghassen\Desktop\calculatrice\calculatrice\bin\Debug\calculatrice.exe
+C:\Users\ghassen\Desktop\calculatrice\calculatrice\bin\Debug\calculatrice.pdb
+C:\Users\ghassen\Desktop\calculatrice\calculatrice\bin\Debug\calculatrice.xml
+C:\Users\ghassen\Desktop\calculatrice\calculatrice\obj\Debug\calculatrice.vbproj.AssemblyReference.cache
+C:\Users\ghassen\Desktop\calculatrice\calculatrice\obj\Debug\calculatrice.Form1.resources
+C:\Users\ghassen\Desktop\calculatrice\calculatrice\obj\Debug\calculatrice.Resources.resources
+C:\Users\ghassen\Desktop\calculatrice\calculatrice\obj\Debug\calculatrice.vbproj.GenerateResource.cache
+C:\Users\ghassen\Desktop\calculatrice\calculatrice\obj\Debug\calculatrice.vbproj.CoreCompileInputs.cache
+C:\Users\ghassen\Desktop\calculatrice\calculatrice\obj\Debug\calculatrice.exe
+C:\Users\ghassen\Desktop\calculatrice\calculatrice\obj\Debug\calculatrice.xml
+C:\Users\ghassen\Desktop\calculatrice\calculatrice\obj\Debug\calculatrice.pdb
